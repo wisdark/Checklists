@@ -8,13 +8,16 @@ The aim of the project is to create detailed checklists that can be used by pene
 
 |Code     |Techniques              |Number|
 |---------|------------------------|------|
+|IA   |[Initial Access](https://github.com/netbiosX/Checklists/blob/master/Initial-Access.md)|1|
 |WPE  |[Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)|16|
-|LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|5|
-|DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|5|
-|DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|4|
+|PE   |[Persistence](https://github.com/netbiosX/Checklists/blob/master/Persistence.md)|40|
+|CA   |[Credential Access](https://github.com/netbiosX/Checklists/blob/master/Credential-Access.md)|5|
+|LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|8|
+|DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|8|
+|DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|7|
 
 # Contributions
-If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](www.twitter.com/netbiosX)
+If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](https://twitter.com/netbiosX)
 
 # Notice
 This is a live repository which means that checklists will be updated as soon as articles are published. 
